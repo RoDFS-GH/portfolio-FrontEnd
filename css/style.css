@@ -1,0 +1,48 @@
+/* CSS Document */
+
+body {
+    background-color: #f2e8f4;
+}
+
+/* Header */
+
+header h1{
+    display: inline;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+header button {
+    display: inline;
+    background-color: #a8556e;
+    color: #f2e8f4;
+    float: right;
+    margin-right: 30px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+/* Nav */
+
+li {
+    display: inline;
+    background-color: #a8556e;
+    color: #f2e8f4;
+}
+
+/* Aside */
+
+#lateral {
+    float: left;
+    height: 1060px;
+    width: 30%;
+}
+
+/* Section */
+
+#navegacion-principal {
+    margin-left: 200px;
+    width: 70%;
+}
+
+/* Footer */
